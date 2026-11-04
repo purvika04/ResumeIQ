@@ -48,5 +48,6 @@ class ResumeUploadResponse(BaseModel):
     resume_doc_id: str
     candidate_id: str
     candidate_name: str
+    skills: List[str] = []
     parsed_data: ParsedResumeData
     message: str = "Resume parsed and stored successfully"

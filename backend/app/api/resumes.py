@@ -189,6 +189,7 @@ async def upload_resumes(
                     resume_doc_id=resume_doc_id,
                     candidate_id=candidate.id,
                     candidate_name=candidate.name,
+                    skills=[s.canonical_name for s in parsed_data.skills],
                     parsed_data=parsed_data,
                     message="Resume parsed and candidate profile created successfully",
                 )

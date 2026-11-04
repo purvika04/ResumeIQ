@@ -18,6 +18,8 @@ class Settings(BaseSettings):
     # Primary: PostgreSQL 18 on localhost; Falls back to SQLite if unreachable
     DATABASE_URL: str = os.getenv("DATABASE_URL", "postgresql://apple@localhost:5432/resumeiq")
     SQLITE_FALLBACK_URL: str = os.getenv("SQLITE_FALLBACK_URL", f"sqlite:///{BASE_DIR}/data/resumeiq.db")
+    REQUIRE_POSTGRES: bool = os.getenv("REQUIRE_POSTGRES", "False").lower() == "true"
+    ALLOW_SQLITE_FALLBACK: bool = os.getenv("ALLOW_SQLITE_FALLBACK", "True").lower() == "true"
     
     # MongoDB Settings: if provided, connects to MongoDB; otherwise falls back to local JSON document store
     MONGODB_URI: str = os.getenv("MONGODB_URI", "")

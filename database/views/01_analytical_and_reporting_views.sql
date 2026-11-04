@@ -104,7 +104,7 @@ SELECT
     c.name,
     c.email,
     c.phone,
-    c.current_role,
+    c."current_role" AS current_designation,
     c.total_experience_years,
     c.location,
     COALESCE(edu.degrees_held, 'No Degree Specified') AS degrees_held,
