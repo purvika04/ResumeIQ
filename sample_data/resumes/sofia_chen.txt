@@ -1,0 +1,31 @@
+Sofia Chen
+Email: sofia.chen.ml@gmail.com | Phone: +1 (650) 992-1205
+LinkedIn: https://linkedin.com/in/sofiachen-ml | GitHub: https://github.com/sofiachen-ai
+
+Professional Summary
+Machine Learning Engineer with 4 years of experience building predictive models, neural networks, and NLP applications. Skilled in Python, PyTorch, Transformers, and Scikit-Learn.
+
+Technical Skills
+• AI & ML: Machine Learning, Deep Learning, Natural Language Processing, Computer Vision
+• Libraries: PyTorch, Scikit-Learn, Pandas, NumPy, HuggingFace, Transformers, spaCy
+• Languages: Python, SQL, Bash
+• Tools: Docker, Git, Linux, Jupyter
+
+Work Experience
+Machine Learning Engineer | NeuroTech Solutions
+2021 - Present (3 years)
+• Built NLP sentiment analysis and entity recognition models using PyTorch and Transformers.
+• Implemented feature extraction pipelines with Scikit-Learn and Pandas on tabular and text data.
+• Packaged ML inference services into Docker containers for production deployment.
+
+Data Science Associate | Analytic Works
+2020 - 2021 (1 year)
+• Trained supervised classification algorithms using Scikit-Learn and evaluated ROC-AUC metrics.
+• Analyzed large datasets with Pandas and NumPy for customer churn prediction.
+
+Education
+Master of Science in Data Science
+Stanford University (2018 - 2020)
+
+Bachelor of Science in Statistics
+UC Davis (2014 - 2018)

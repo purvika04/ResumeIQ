@@ -1,0 +1,31 @@
+Dr. Elena Rostova
+Email: elena.rostova.ai@outlook.com | Phone: +1 (617) 492-3301
+LinkedIn: https://linkedin.com/in/elena-rostova-ai | GitHub: https://github.com/erostova-nlp
+
+Professional Summary
+AI and NLP Research Specialist with 6 years of experience developing deep learning architectures and language models. Deep expertise in PyTorch, Natural Language Processing, Machine Learning, Transformers, and LLMs.
+
+Technical Skills
+• Core AI/ML: Natural Language Processing, Deep Learning, Machine Learning, Computer Vision
+• Frameworks: PyTorch, HuggingFace Transformers, Sentence Transformers, spaCy, Scikit-Learn
+• Languages: Python, C++, SQL
+• Libraries: Pandas, NumPy, Data Visualization, Matplotlib
+
+Work Experience
+Lead NLP Engineer | Cognition Labs
+2021 - Present (3 years)
+• Fine-tuned HuggingFace Transformers and BERT models for cross-lingual document classification.
+• Implemented custom attention mechanisms in PyTorch for semantic text ranking and retrieval.
+• Preprocessed massive textual corpora using spaCy and Pandas with sub-word tokenization.
+
+Machine Learning Researcher | AI Innovations Lab
+2018 - 2021 (3 years)
+• Built NLP feature extraction pipelines using Scikit-Learn and PyTorch.
+• Trained text embeddings for semantic similarity scoring and recommendation algorithms.
+
+Education
+Ph.D. in Computer Science (Artificial Intelligence)
+Massachusetts Institute of Technology (2014 - 2018)
+
+Bachelor of Science in Mathematics and Computer Science
+Carnegie Mellon University (2010 - 2014)

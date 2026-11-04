@@ -1,0 +1,26 @@
+Sarah Jenkins
+Email: sarah.jenkins.ui@gmail.com | Phone: +1 (312) 880-4491
+LinkedIn: https://linkedin.com/in/sarahjenkins-frontend
+
+Professional Summary
+Senior Frontend Engineer with 3.5 years of experience building responsive, user-centered web applications with React, TypeScript, and Tailwind CSS.
+
+Technical Skills
+• Frontend: React, Next.js, Vue, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS
+• Design & UX: Figma, Responsive Design, Web Accessibility
+• Tools: Git, Jest, Vite, REST APIs
+
+Work Experience
+Lead UI Developer | PixelCraft Studio
+2021 - Present (3 years)
+• Created modern interactive React single-page applications with Tailwind CSS.
+• Implemented reusable component libraries in TypeScript with 98% unit testing coverage.
+• Optimized front-end performance, achieving a 99 Lighthouse performance score.
+
+Frontend Developer | Chicago Media Labs
+2020 - 2021 (1 year)
+• Developed web interfaces in React and JavaScript consuming third-party REST APIs.
+
+Education
+Bachelor of Science in Software Engineering
+University of Illinois Urbana-Champaign (2016 - 2020)

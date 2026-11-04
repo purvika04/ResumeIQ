@@ -1,0 +1,23 @@
+{
+  "id": "job-cloud-devops-engineer",
+  "title": "Senior Cloud DevOps Engineer",
+  "department": "Infrastructure & Platform",
+  "location": "Austin / Remote",
+  "employment_type": "Full-time",
+  "min_experience_years": 4.0,
+  "required_skills": [
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "Terraform",
+    "CI/CD"
+  ],
+  "preferred_skills": [
+    "Linux",
+    "Bash",
+    "GitHub Actions",
+    "Python",
+    "Microservices"
+  ],
+  "description": "We are seeking a Senior Cloud DevOps Engineer to scale and secure our multi-region cloud infrastructure. You will manage Kubernetes clusters across AWS, define declarative Infrastructure-as-Code using Terraform, automate build and deployment workflows via CI/CD and GitHub Actions, and ensure 99.99% system availability. Extensive knowledge of containerization, Linux systems, and cloud architecture is mandatory."
+}

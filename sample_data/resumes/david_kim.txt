@@ -1,0 +1,23 @@
+David Kim
+Email: david.kim.eng@gmail.com | Phone: +1 (206) 881-3049
+LinkedIn: https://linkedin.com/in/david-kim-python
+
+Professional Summary
+Junior Software Developer with 1.5 years of experience in Python programming and backend development. Familiar with Flask, SQLite, and Git version control.
+
+Technical Skills
+• Languages: Python, SQL, HTML, CSS
+• Web Frameworks: Flask, Django
+• Databases: SQLite, MySQL
+• Practices: Unit Testing, Git, Object Oriented Programming
+
+Work Experience
+Junior Python Developer | Cascade Software
+2023 - Present (1.5 years)
+• Maintained internal data ingestion scripts in Python.
+• Built lightweight CRUD endpoints using Flask with SQLite database.
+• Wrote unit testing suites using pytest to ensure code coverage.
+
+Education
+Bachelor of Science in Computer Information Systems
+University of Washington (2019 - 2023)

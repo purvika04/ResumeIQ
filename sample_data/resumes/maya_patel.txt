@@ -1,0 +1,26 @@
+Maya Patel
+Email: maya.patel.sec@gmail.com | Phone: +1 (703) 662-8190
+LinkedIn: https://linkedin.com/in/mayapatel-cyber
+
+Professional Summary
+Cybersecurity Analyst with 4 years of experience safeguarding networks, conducting penetration testing, and implementing IAM protocols. Familiar with OWASP standards.
+
+Technical Skills
+• Security: Cybersecurity, Penetration Testing, OWASP, Cryptography, Network Security, IAM
+• Tools: Wireshark, Linux, Splunk, Firewalls
+• Compliance: SOC 2, ISO 27001
+
+Work Experience
+Cybersecurity Specialist | CyberShield Defense
+2021 - Present (3 years)
+• Conducted penetration testing and vulnerability assessments following OWASP standards.
+• Configured network security firewalls, identity access management (IAM), and encryption.
+• Monitored system logs in Splunk to detect and remediate potential security breaches.
+
+Security Analyst | Metro Systems
+2020 - 2021 (1 year)
+• Performed routine security audits on enterprise Linux servers.
+
+Education
+Bachelor of Science in Cybersecurity & Information Assurance
+George Mason University (2016 - 2020)

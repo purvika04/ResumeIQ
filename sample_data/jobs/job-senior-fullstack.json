@@ -1,0 +1,22 @@
+{
+  "id": "job-senior-fullstack",
+  "title": "Senior Full Stack Engineer",
+  "department": "Engineering",
+  "location": "Remote / San Francisco",
+  "employment_type": "Full-time",
+  "min_experience_years": 4.0,
+  "required_skills": [
+    "Python",
+    "FastAPI",
+    "React",
+    "PostgreSQL",
+    "Docker"
+  ],
+  "preferred_skills": [
+    "AWS",
+    "Redis",
+    "Kubernetes",
+    "CI/CD"
+  ],
+  "description": "We are looking for an experienced Senior Full Stack Engineer to spearhead core product development. You will design, build, and maintain robust backend microservices with Python and FastAPI, manage high-reliability PostgreSQL databases, and build interactive frontend applications using React and Tailwind CSS. The ideal candidate has strong architectural skills, leverages Docker containerization, and deploys scalable cloud services on AWS."
+}

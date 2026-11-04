@@ -1,0 +1,22 @@
+Lucas Silva
+Email: lucas.silva.bi@gmail.com | Phone: +1 (786) 441-2099
+LinkedIn: https://linkedin.com/in/lucassilva-data
+
+Professional Summary
+Data Analyst with 2.5 years of experience in data visualization, SQL queries, and business intelligence reporting. Proficient in Tableau, Excel, and Pandas.
+
+Technical Skills
+• Analytics: SQL, Data Visualization, Tableau, PowerBI, Excel
+• Data Wrangling: Pandas, NumPy, Python basics
+• Practices: Agile, Business Reporting
+
+Work Experience
+Data Analyst | Coastal Retail Group
+2022 - Present (2 years)
+• Authored complex SQL queries to extract sales and inventory insights.
+• Built executive dashboards in Tableau and PowerBI to monitor revenue KPIs.
+• Cleaned and normalized customer data using Python and Pandas.
+
+Education
+Bachelor of Science in Economics & Business Analytics
+Florida International University (2018 - 2022)

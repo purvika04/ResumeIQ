@@ -1,0 +1,28 @@
+Liam O'Connor
+Email: liam.oconnor.backend@gmail.com | Phone: +1 (617) 991-3841
+LinkedIn: https://linkedin.com/in/liamoconnor-backend
+
+Professional Summary
+Senior Backend Engineer with 4.5 years of experience specializing in high-performance distributed systems, Python, Docker, and PostgreSQL. Experienced in Linux and RESTful services.
+
+Technical Skills
+• Languages: Python, Go, SQL, Bash
+• Frameworks: FastAPI, Django, REST APIs, Microservices
+• Databases: PostgreSQL, Redis
+• Cloud & DevOps: Docker, Linux, Git, CI/CD
+
+Work Experience
+Senior Backend Engineer | Boston Data Infrastructure
+2021 - Present (3 years)
+• Designed backend microservices using Python and FastAPI for financial transaction processing.
+• Maintained high-throughput PostgreSQL database clusters with connection pooling.
+• Dockerized all service applications and integrated automated CI/CD pipelines.
+
+Software Engineer | Commonwealth Systems
+2019 - 2021 (2 years)
+• Developed REST APIs in Python with PostgreSQL data models.
+• Managed Linux deployments and monitored application uptime.
+
+Education
+Bachelor of Science in Computer Science
+Boston University (2015 - 2019)

@@ -1,0 +1,33 @@
+Marcus Vance
+Email: marcus.vance.cloud@gmail.com | Phone: +1 (512) 773-4902
+LinkedIn: https://linkedin.com/in/marcus-vance-cloud
+
+Professional Summary
+DevOps Architect with 6+ years of experience delivering cloud infrastructure, automated CI/CD pipelines, and Kubernetes container management. Expert in AWS, Docker, Terraform, and Linux administration.
+
+Technical Skills
+• Cloud Platforms: AWS, Azure, Google Cloud
+• Containers & Orchestration: Kubernetes, Docker, Helm
+• Infrastructure as Code: Terraform, Ansible
+• CI/CD & Automation: GitHub Actions, Jenkins, CI/CD, Bash scripting
+• Languages & OS: Python, Go, Linux, Shell
+
+Work Experience
+Senior DevOps Engineer | CloudScale Systems
+2021 - Present (3 years)
+• Designed and provisioned multi-region AWS cloud infrastructure using Terraform modules.
+• Managed production Kubernetes clusters (EKS) hosting 80+ microservices with zero downtime.
+• Built end-to-end CI/CD release pipelines with GitHub Actions and Docker image verification.
+
+Cloud Infrastructure Engineer | DataOps Inc.
+2018 - 2021 (3 years)
+• Automated deployment workflows on AWS with Docker containers and Bash automation.
+• Administered Linux Ubuntu and Debian production servers, configuring firewalls and Nginx.
+
+Education
+Bachelor of Science in Information Technology
+University of Texas at Austin (2014 - 2018)
+
+Certifications
+CKA (Certified Kubernetes Administrator)
+AWS Certified Solutions Architect Professional

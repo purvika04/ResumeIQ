@@ -1,0 +1,23 @@
+{
+  "id": "job-nlp-ml-engineer",
+  "title": "NLP & Machine Learning Engineer",
+  "department": "Artificial Intelligence",
+  "location": "New York / Hybrid",
+  "employment_type": "Full-time",
+  "min_experience_years": 3.0,
+  "required_skills": [
+    "Python",
+    "PyTorch",
+    "Natural Language Processing",
+    "Machine Learning",
+    "Transformers"
+  ],
+  "preferred_skills": [
+    "Scikit-Learn",
+    "Pandas",
+    "spaCy",
+    "LLMs",
+    "HuggingFace"
+  ],
+  "description": "Join our AI research and development team to build production-grade semantic search, entity extraction pipelines, and transformer ranking engines. You will fine-tune pretrained models, train custom NLP architectures in PyTorch, leverage Hugging Face Transformers, and optimize neural inference pipelines. Requires a strong mathematical foundation in Machine Learning and experience with modern NLP techniques."
+}

@@ -1,0 +1,23 @@
+Priya Sharma
+Email: priya.sharma.dev@gmail.com | Phone: +1 (408) 555-8812
+LinkedIn: https://linkedin.com/in/priyasharma-web
+
+Professional Summary
+Full Stack Developer with 3 years of hands-on experience in web development using React, Node.js, and Python. Passionate about responsive UI and clean RESTful web services.
+
+Technical Skills
+• Frontend: React, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap
+• Backend: Node.js, Express, Python, REST APIs
+• Databases: MongoDB, MySQL
+• Tools: Git, GitHub, Agile, Jira
+
+Work Experience
+Full Stack Web Developer | Nexa Digital
+2021 - Present (3 years)
+• Developed single-page web applications with React and Tailwind CSS.
+• Implemented REST APIs in Node.js and Python for user authentication and order processing.
+• Integrated MongoDB document database collections for flexible product catalog storage.
+
+Education
+Bachelor of Science in Computer Science
+San Jose State University (2017 - 2021)

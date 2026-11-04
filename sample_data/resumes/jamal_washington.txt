@@ -1,0 +1,29 @@
+Jamal Washington
+Email: jamal.washington.devops@gmail.com | Phone: +1 (404) 331-9022
+LinkedIn: https://linkedin.com/in/jamalwashington-devops
+
+Professional Summary
+DevOps & Cloud Engineer with 4.5 years of experience deploying reliable cloud environments. Specialized in AWS, Docker, Kubernetes, Terraform, and CI/CD pipelines.
+
+Technical Skills
+• Cloud: AWS, Google Cloud
+• Containerization: Docker, Kubernetes
+• Infrastructure as Code: Terraform
+• CI/CD: Jenkins, GitHub Actions, CI/CD
+• OS & Scripting: Linux, Bash, Python
+
+Work Experience
+DevOps Engineer | Delta Cloud Infrastructure
+2021 - Present (3 years)
+• Provisioned and secured AWS cloud infrastructure utilizing Terraform scripts.
+• Managed high-availability Kubernetes clusters and created automated Helm deployments.
+• Maintained CI/CD pipelines in Jenkins and GitHub Actions with automated unit testing.
+
+Systems Administrator | Atlanta Tech Group
+2019 - 2021 (2 years)
+• Administered Linux enterprise servers and configured network security groups.
+• Automated operational maintenance tasks using Python and Bash scripts.
+
+Education
+Bachelor of Science in Computer Engineering
+Georgia Institute of Technology (2015 - 2019)

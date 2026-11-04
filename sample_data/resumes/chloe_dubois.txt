@@ -1,0 +1,21 @@
+Chloe Dubois
+Email: chloe.dubois.intern@gmail.com | Phone: +1 (212) 330-9118
+LinkedIn: https://linkedin.com/in/chloedubois-ai
+
+Professional Summary
+Recent graduate and AI Research Intern enthusiastic about Machine Learning algorithms and data science. Familiar with Python, Scikit-Learn, and NumPy.
+
+Technical Skills
+• Languages: Python, SQL
+• Machine Learning: Scikit-Learn, Pandas, NumPy, Machine Learning basics
+• Education: High School Diploma, Bachelor of Science in Computer Science candidate
+
+Work Experience
+Machine Learning Intern | Horizon AI
+2025 - 2026 (6 months)
+• Assisted in building baseline classification models with Scikit-Learn.
+• Performed data exploration and data visualization using Pandas and Matplotlib.
+
+Education
+Bachelor of Science in Computer Science
+New York University (Expected Graduation 2026)
